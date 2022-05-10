@@ -17,6 +17,8 @@ K频道,p5p://45.92.126.18:9906/60e5c69c0007bf360cfd3979da394ad7
 Look TV,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
 Look TV,p5p://fccs.123178.top:9906/60ed753e0003e9cf1108a73c5ad48fc9
 松視3台,p5p://fccs.123178.top:9906/60e5c670000a55dc0cfc8e43fe53445e
+松視3台,mitv://ns2.hellotvvod.com:9906/5fabc0b58887475e85ed2f1eb77d9de2
 Hot,p5p://fccs.123178.top:9906/60e5c5940008bfb40cf9327b7a38210e
 Hot,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
 Hot,http://185.236.229.21:9981/play/a03p
+香蕉台,mitv://ns2.hellotvvod.com:9906/bfd038a20bbb4f9d8cba14761e028dfa
