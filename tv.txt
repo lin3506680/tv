@@ -1,9 +1,4 @@
-CCTV-1综合 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-
-#EXTINF:-1 tvg-id="cctv2" tvg-logo="cctv2.png",CCTV-2 财经
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-纬来体育,rtmp://59.124.75.150/sat/tv721,纬来体育台
-彩虹e台,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7
 彩虹電影台,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
 香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
 香蕉台,p5p://fccs.123178.top:9906/60fd2ddd000096c200edc58716da3240
